@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainView.SL.xaml](./CS/View/MainView.SL.xaml) (VB: [MainView.SL.xaml](./VB/View/MainView.SL.xaml))**
+* [MainViewModel.SL.cs](./CS/ViewModel/MainViewModel.SL.cs) (VB: [MainViewModel.SL.vb](./VB/ViewModel/MainViewModel.SL.vb))
+<!-- default file list end -->
 # How to: Use DelegateCommand
 
 
